@@ -1,0 +1,14 @@
+C:\Users\Eddie\source\repos\Depreciation\Depreciation\bin\Debug\Depreciation.exe.config
+C:\Users\Eddie\source\repos\Depreciation\Depreciation\bin\Debug\Depreciation.exe
+C:\Users\Eddie\source\repos\Depreciation\Depreciation\bin\Debug\Depreciation.pdb
+C:\Users\Eddie\source\repos\Depreciation\Depreciation\bin\Debug\Depreciation.xml
+C:\Users\Eddie\source\repos\Depreciation\Depreciation\obj\Debug\Depreciation.vbprojAssemblyReference.cache
+C:\Users\Eddie\source\repos\Depreciation\Depreciation\obj\Debug\Depreciation.frmDepreciation.resources
+C:\Users\Eddie\source\repos\Depreciation\Depreciation\obj\Debug\Depreciation.frmDisplayInventory.resources
+C:\Users\Eddie\source\repos\Depreciation\Depreciation\obj\Debug\Depreciation.Resources.resources
+C:\Users\Eddie\source\repos\Depreciation\Depreciation\obj\Debug\Depreciation.vbproj.GenerateResource.cache
+C:\Users\Eddie\source\repos\Depreciation\Depreciation\obj\Debug\Depreciation.vbproj.CoreCompileInputs.cache
+C:\Users\Eddie\source\repos\Depreciation\Depreciation\obj\Debug\Depreciation.exe
+C:\Users\Eddie\source\repos\Depreciation\Depreciation\obj\Debug\Depreciation.xml
+C:\Users\Eddie\source\repos\Depreciation\Depreciation\obj\Debug\Depreciation.pdb
+C:\Users\Eddie\source\repos\Depreciation\Depreciation\bin\Debug\inventory.txt
